@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+qrcode
+pillow
+Flask-Mail
+gunicorn
+python-dotenv
